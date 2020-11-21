@@ -5,7 +5,7 @@ const inventario = [
 
   { nombre:"Victor Joel Huancollo Galindo" ,ci:11107990,num:"# 1000",cargo:"aux" ,dep:"La Paz" ,mun:"La Paz" ,dist:"7"},
   { nombre:"Josue Viktor Morales Choque" ,ci:6957485,num:"# 1001",cargo:"aux" ,dep:"La Paz" ,mun:"La Paz" ,dist:"7"},
-
+  { nombre:"Rodrigo Salazar" ,ci:8468662,num:"# 1666",cargo:"aux" ,dep:"La Paz" ,mun:"La Paz" ,dist:"7"},
 ];
 var item = inventario.find(item => item.ci === parseInt(prodId, 10));
 console.log(item);  
