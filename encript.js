@@ -4,6 +4,7 @@ console.log(prodId);  */
 const inventario = [
 
   { nombre:"Victor Joel Huancollo Galindo" ,ci:11107990,num:"# 1000",cargo:"aux" ,dep:"La Paz" ,mun:"La Paz" ,dist:"7"},
+  { nombre:"Rafael Arcangel Quispe Flores" ,ci:3412812,num:"# 1002",cargo:"Presidente" ,dep:"La Paz" ,mun:"Nuestra Señora de La Paz" ,dist:"2"},
   { nombre:"Josue Viktor Morales Choque" ,ci:6957485,num:"# 1001",cargo:"Jefe Circunscripción" ,dep:"La Paz" ,mun:"La Paz" ,dist:"37"},
   { nombre:"Rodrigo Salazar" ,ci:8468662,num:"# 1666",cargo:"aux" ,dep:"La Paz" ,mun:"La Paz" ,dist:"7"},
 ];
