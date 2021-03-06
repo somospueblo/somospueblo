@@ -3,7 +3,7 @@ var prodId = getParameterByName('prodId');
 console.log(prodId);  */
 const inventario = [
 
-{ nombre:"JOSUE VIKTOR MORALES CHOQUE" ,ci:6957485,num:"# 1001",cargo:"PRESIDENTE" ,dep:"-" ,mun:"-" ,dist:"-"},
+PRESIDENTE{ nombre:"JOSUE VIKTOR MORALES CHOQUE" ,ci:6957485,num:"# 1001",cargo:"PRESIDENTE" ,dep:"PRESIDENTE" ,mun:"PRESIDENTE" ,dist:"PRESIDENTE"},
 { nombre:"FERNANDO F.A. BOLLATI BUTRON" ,ci:3449966,num:"# 1002",cargo:"VICEPRESIDENTE ,dep:"INSTITUTO AMERICANO" ,mun:"-" ,dist:"-"},
 { nombre:"YAZZEL YAMIL DUK ESCOBAR" ,ci:13608507,num:"# 1003",cargo:"AREA LEGAL ,dep:"ESC PANAMA" ,mun:"-" ,dist:"-"},
 { nombre:"VICTOR JOEL HUANCOLLO GALINDO" ,ci:11107990,num:"# 1004",cargo:"AREA INFORMATICA ,dep:"ESC SERGIO SUAREZ" ,mun:"-" ,dist:"-"},
