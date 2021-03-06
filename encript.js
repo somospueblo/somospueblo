@@ -31,7 +31,7 @@ function getParameterByName(name) {
 }
  
  function getMiembro() {
-  document.getElementById("nombres").innerHTML = item.nombre;
+  document.getElementById("nombre").innerHTML = item.nombre;
   document.getElementById("cis").innerHTML = item.ci;
   document.getElementById("num").innerHTML = item.num;
   
