@@ -19,6 +19,7 @@ const inventario = [
 { nombre:"BETTY TIVERO QUISPE" ,ci:4327421,num:"# 1014",cargo:"SECRETARIA DE GENERO ,dep:"COL CANADA" ,mun:"-" ,dist:"-"},
 { nombre:"EDMAR YANA VILLARROEL" ,ci:5960411,num:"# 1015",cargo:"LOGISTICA ,dep:"COL CRISTO REY" ,mun:"-" ,dist:"-"},
 { nombre:"-" ,ci:12345,num:"# 1016",cargo:"- ,dep:"La Paz" ,mun:"-" ,dist:"-"},
+ 
 
 ];
 var item = inventario.find(item => item.ci === parseInt(prodId, 10));
