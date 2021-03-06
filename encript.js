@@ -15,7 +15,7 @@ const inventario = [
 { nombre:"DANIELA BUENO FERNANDEZ" ,ci:4032096,num:"# 1010",cargo:"TESORERA ,dep:" ESC 6 DE AGOSTO" ,mun:"-" ,dist:"-"},
 { nombre:"FELIX ARIAS RUBIN DE CELIS" ,ci:8463219,num:"# 1011",cargo:"CULTURAS Y DEPORTES ,dep:" ESC FRANCISCO DE MIRANDA" ,mun:"-" ,dist:"-"},
 { nombre:"FERNANDO CARPIO" ,ci:4777364,num:"# 1012",cargo:"PLANIFICACION ,dep:"ESC CHASQUIPAMPA" ,mun:"-" ,dist:"-"},
-{ nombre:"ALEXIS LOZA " ,ci:6159947,num:"# 1013",cargo:"DIRECCION PRODUCCION ,dep:"" ,mun:"-" ,dist:"-"},
+{ nombre:"ALEXIS LOZA " ,ci:6159947,num:"# 1013",cargo:"DIRECCION PRODUCCION ,dep:"-" ,mun:"-" ,dist:"-"},
 { nombre:"BETTY TIVERO QUISPE" ,ci:4327421,num:"# 1014",cargo:"SECRETARIA DE GENERO ,dep:"COL CANADA" ,mun:"-" ,dist:"-"},
 { nombre:"EDMAR YANA VILLARROEL" ,ci:5960411,num:"# 1015",cargo:"LOGISTICA ,dep:"COL CRISTO REY" ,mun:"-" ,dist:"-"},
 { nombre:"-" ,ci:12345,num:"# 1016",cargo:"- ,dep:"La Paz" ,mun:"-" ,dist:"-"},
